@@ -26,3 +26,25 @@ Tenho interesse em aprender cada vez mais sobre Front-end e Back-end, aprimorar 
 
 <br/>
 <br/>
+
+---
+
+### Contato
+
+<p align="left">
+  <a href="mailto:gabrielamontescoelho@gmail.com">
+    <img
+      alt="E-mail"
+      title="Enviar e-mail"
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabrielagcoelho/" target="_blank">
+    <img
+      alt="LinkedIn"
+      title="Acessar meu LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>

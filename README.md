@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriela Montes
+# Gabriela Montes
 
 **`Desenvolvedora Full Stack`**
 
@@ -26,25 +26,3 @@ Tenho interesse em aprender cada vez mais sobre Front-end e Back-end, aprimorar 
 
 <br/>
 <br/>
-
----
-
-### Estatísticas
-
-<p>
-    <img
-        align="left"
-        alt="Estatísticas do GitHub"
-        height="190"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=gabrielamontescoelho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-
-<img
-     align="left"
-     alt="Linguagens mais utilizadas"
-     height="190"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamontescoelho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
- />
-
-</p>

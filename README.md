@@ -1,6 +1,6 @@
 # Gabriela Montes
 
-**`Desenvolvedora Full Stack`**
+**`Desenvolvedora Full Stack em formação`**
 
 Olá! Meu nome é **Gabriela Montes Gomes Coelho** e estou construindo minha trajetória na área de desenvolvimento Full Stack.
 
